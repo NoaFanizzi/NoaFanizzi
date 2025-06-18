@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on minishell and philosophers<br>💻​ I’m looking for an apprenticeship in tech<br>📚​ I’m studying Economics (UGA) and Computer Science (42)<br>🌱 I’m currently learning C and C++<br>💬 Contact : noafanizzistdy@gmail.com <br>
+🔭 I’m currently working on minishell and philosophers<br>📚​ I’m studying Economics (UGA) and Computer Science (42)<br>🌱 I’m currently learning C and C++<br>💬 Contact : noafanizzistdy@gmail.com <br>
 
 
 ## 🌐 Socials:
