@@ -13,5 +13,5 @@ As a Data Enthusiast, I’m focused on bridging the gap between business strateg
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,typescript,tailwind" />
 </div>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noa-fanizzi-45a475249/) 
