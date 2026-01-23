@@ -10,9 +10,15 @@ As a Data Enthusiast, I’m focused on bridging the gap between business strateg
 
 # 💻 Tech Stack:
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,figma,docker,aws,vim" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,typescript,react,tailwind" />
-</a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=git,figma,docker,aws,vim" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,typescript,react,tailwind" />
+      </td>
+    </tr>
+  </table>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
