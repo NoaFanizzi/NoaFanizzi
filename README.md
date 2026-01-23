@@ -9,8 +9,10 @@ As a Data Enthusiast, I’m focused on bridging the gap between business strateg
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noa-fanizzi-45a475249/) 
 
 # 💻 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,docker,aws,vimc" />
-  <br><br> <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,typescript,react,tailwind" />
-</p>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,figma,docker,aws,vim" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,typescript,react,tailwind" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
