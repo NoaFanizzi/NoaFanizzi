@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" width="900" height="250" role="img" aria-label="Noa Fanizzi, freelance web developer, trained at 42">
+  <style>
+    .label { font: 500 12px 'Geist Mono',ui-monospace,SFMono-Regular,Menlo,monospace; letter-spacing: 0.08em; fill: #6B6B6B; text-transform: uppercase; }
+    .name { font: 500 84px 'Geist','Helvetica Neue',Helvetica,Arial,sans-serif; letter-spacing: -0.04em; fill: #0A0A0A; }
+    .tag { font: 400 22px 'Geist','Helvetica Neue',Helvetica,Arial,sans-serif; letter-spacing: -0.01em; fill: #6B6B6B; }
+    .rise { opacity: 0; animation: rise 700ms cubic-bezier(0.22, 1, 0.36, 1) forwards; }
+    .d1 { animation-delay: 100ms; } .d2 { animation-delay: 260ms; } .d3 { animation-delay: 420ms; }
+    .rule { transform-box: fill-box; transform-origin: left center; transform: scaleX(0); animation: draw 1100ms cubic-bezier(0.22, 1, 0.36, 1) 600ms forwards; }
+    .cursor { animation: blink 1.1s steps(1, end) 1200ms infinite; }
+    @keyframes rise { from { opacity: 0; transform: translateY(24px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes draw { to { transform: scaleX(1); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .rise, .rule, .cursor { animation: none; opacity: 1; transform: none; }
+    }
+  </style>
+  <text class="label rise d1" x="2" y="40">Portfolio — 2026</text>
+  <text class="name rise d2" x="-3" y="132">Noa Fanizzi</text>
+  <text class="tag rise d3" x="2" y="180" textLength="378" lengthAdjust="spacing">Freelance web developer, trained at 42.</text>
+  <rect class="cursor" x="392" y="165" width="10" height="10" fill="#C4552D"/>
+  <rect class="rule" x="2" y="214" width="896" height="1" fill="#D5D5D5"/>
+</svg>

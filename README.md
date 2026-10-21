@@ -1,6 +1,7 @@
-# NOA FANIZZI
-
-Freelance web developer, trained at 42.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Noa Fanizzi, freelance web developer, trained at 42" width="900">
+</picture>
 
 I design and build custom websites and web applications, from the interface to the API, with care for both detail and performance.
 
