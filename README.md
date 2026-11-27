@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Noa Fanizzi, freelance web developer, trained at 42" width="900">
+  <img src="assets/banner-light.svg" alt="Noa Fanizzi, data and product, 42 Lyon and emlyon student" width="900">
 </picture>
 
-I design and build custom websites and web applications, from the interface to the API, with care for both detail and performance.
+I'm interested in data and product: understanding what users really need, turning data into clear decisions, and building products that create value.
 
 Master's student at emlyon business school (MIM), on a dual curriculum with 42 Lyon.
 
@@ -25,10 +25,10 @@ Master's student at emlyon business school (MIM), on a dual curriculum with 42 L
 
 | | |
 | --- | --- |
-| Languages | C, C++, TypeScript, Python, Shell |
+| Languages | C, C++, TypeScript, Python, SQL, Shell |
 | Front | Next.js, React, Tailwind CSS, Babylon.js, next-intl |
 | Back | NestJS, Socket.IO, Colyseus, Bun, Prisma |
-| Data | PostgreSQL, MariaDB, MinIO |
+| Data | PostgreSQL, MariaDB, MinIO, Power BI |
 | Infra | Docker, Nginx, WordPress, Git |
 
 ---
